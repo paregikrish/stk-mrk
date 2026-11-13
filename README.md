@@ -1,4 +1,4 @@
-# Stock Market Lab (stk-mrk)
+# Stock Market (stk-mrk)
 
 I'm a 20-year-old BCom graduate from India, and I'm learning Python to move into AI/ML and fintech. This repo is my learning journey, built in public, one working piece at a time. It is not a polished product. It is a beginner's honest progress log that turns into a real tool.
 
